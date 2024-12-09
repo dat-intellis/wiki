@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="57d6dad4">
+        <description>Created after removal of "Introduction" from Wiki</description>
+        <accepts>story-points-and-reference-stories1.html</accepts>
+    </rule>
+    <rule id="662868b7">
+        <description>Created after removal of "The Stages of a Retrospective" from Wiki</description>
+        <accepts>retrospectives-what-is-it1.html</accepts>
+    </rule>
+    <rule id="7595698c">
+        <description>Created after removal of "Backlog Refinement (2-4 Hours at 2 week sprints)" from Wiki</description>
+        <accepts>scrum-events-and-agendas1.html</accepts>
+    </rule>
+    <rule id="60547645">
+        <description>Created after removal of "About Overciew" from Wiki</description>
+        <accepts>overciew.html</accepts>
+    </rule>
+    <rule id="3cb8cdaf">
+        <description>Created after removal of "About Scrum" from Wiki</description>
+        <accepts>scrum.html</accepts>
+    </rule>
+</rules>
