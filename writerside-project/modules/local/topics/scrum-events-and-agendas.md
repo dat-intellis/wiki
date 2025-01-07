@@ -24,7 +24,7 @@ advantages:
 
 1. **Preparation**
     - Ensure the Product Backlog is populated with PBIs.
-    - Review the Definition of Done (DoD).
+    - Review the Definition of Ready (DoR).
     - Review the team's velocity and capacity.
 
 2. **Backlog Review**
