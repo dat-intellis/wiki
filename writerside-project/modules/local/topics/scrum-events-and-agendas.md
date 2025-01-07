@@ -1,8 +1,10 @@
 # Scrum Event Agenda's
 
-It is worth it to consider gathering all sprint related events on the same day of the week. 
+This page contains Agenda's, and Notes, regarding scrum events.
 
-This has the following advantages: 
+## Event Consistency {collapsible="true"}
+It is worth it to consider gathering all sprint related events on the same day of the week, for the following 
+advantages: 
 1. It will make it easier to remember when each event is scheduled.
 2. It will increase the flexibility of the team to schedule other events on other days.
 3. It will increase the flexibility for flex times and remote work.
@@ -10,7 +12,7 @@ This has the following advantages:
    - Maybe even physically present in the same location.
 
 
-## Backlog Refinement
+## Backlog Refinement {collapsible="true"}
 
 **Duration**: 2-4 Hours at two-week sprints.
 
@@ -46,7 +48,7 @@ This has the following advantages:
 Remember, Backlog Refinement is not a one-time event but a continuous process to keep the Product Backlog updated and ready for the next Sprint. It helps in making the Sprint Planning more efficient and effective. Happy refining! 😊.
 
 
-## Sprint Planning
+## Sprint Planning {collapsible="true"}
 
 **Duration**: 2-4 hours at two-week sprints.
 
@@ -85,7 +87,7 @@ Remember, Backlog Refinement is not a one-time event but a continuous process to
 Remember, the goal of Sprint Planning is not just to create a plan, but to also foster a shared understanding among the team members about the scope and purpose of the work to be done. Happy planning! 😊.
 
 
-## Sprint Daily Stand Up
+## Sprint Daily Stand Up {collapsible="true"}
 
 **Duration**: ~15 minutes
 
@@ -116,7 +118,7 @@ Remember, the goal of Sprint Planning is not just to create a plan, but to also 
 Remember, the Daily Stand-up is not a status meeting for the Scrum Master or Product Owner, but a chance for the Development Team to synchronize their work and plan for the next 24 hours. Keep it short and focused! 😊.
 
 
-## Sprint Retrospective
+## Sprint Retrospective {collapsible="true"}
 
 **Duration**: 1-2 hours at two-week sprints
 
@@ -151,7 +153,7 @@ Remember, the Daily Stand-up is not a status meeting for the Scrum Master or Pro
 Remember, the Sprint Retrospective is a key opportunity for the team to continuously improve and become more effective. It's important to create a safe and open environment where everyone feels comfortable sharing their thoughts and experiences. Happy retrospecting! 😊.
 
 
-## Sprint Review
+## Sprint Review {collapsible="true"}
 
 **Duration**: 1-2 hours at two-week sprints.
 
@@ -185,7 +187,7 @@ Remember, the Sprint Retrospective is a key opportunity for the team to continuo
 Remember, the Sprint Review is not just a demo of the work done but also a collaborative event to inspect the increment and adapt the Product Backlog. It helps in aligning the team and stakeholders on the progress and the next steps. Happy reviewing! 😊.
 
 
-## Q&A
+## Q&A {collapsible="true"}
 
 ### What is a Sprint Goal? 
 A good Sprint Goal is a concise statement that describes the purpose of the Sprint and provides a clear direction for the team. It should be:
