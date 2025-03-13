@@ -164,25 +164,29 @@ Remember, the Sprint Retrospective is a key opportunity for the team to continuo
 **Checklist**
 
 1. **Preparation**
-    - Prepare a demonstration of the work done.
+    - Prepare the sprint increment for demonstration.
+    - Confirm demonstration setup (environment, tools, presentation).
     - Invite relevant stakeholders.
 
 2. **Sprint Work Demonstration**
-    - Present the completed items in the Sprint.
-    - Demonstrate the functionality of the product increment.
+    - Briefly summarize sprint goals and objectives.
+    - Present each completed item:
+      - Clearly state the item's goal and value delivered.
+      - Demonstrate functionality and user-facing changes.
+      - Highlight any significant technical or operational improvements.
+      - Transparently discuss challenges faced and solutions implemented.
+      - Actively solicit and record stakeholder and team feedback.
 
 3. **Product Backlog Review**
-    - Review the current state of the Product Backlog.
-    - Discuss any new items that might need to be added.
+    - Display and discuss the current state of the Product Backlog.
+    - Identify any new requirements, feedback, or insights to incorporate.
+    - Prioritize and discuss potential backlog adjustments collaboratively.
 
-4. **Feedback Gathering**
-    - Gather feedback from the stakeholders.
-    - Discuss any changes or adjustments needed based on the feedback.
-
-5. **Conclusion**
+4. **Conclusion**
     - Update the Product Backlog based on the feedback and discussions.
     - Discuss the probable Product Backlog items for the near future.
-    - Close the meeting with clear next steps and responsibilities.
+    - Confirm alignment on the next steps and responsibilities.
+    - Close the meeting positively, reiterating appreciation for team and stakeholder contributions.
 
 Remember, the Sprint Review is not just a demo of the work done but also a collaborative event to inspect the increment and adapt the Product Backlog. It helps in aligning the team and stakeholders on the progress and the next steps. Happy reviewing! 😊.
 
